@@ -2,7 +2,7 @@
 
 
 
-![Last Commit](https://img.shields.io/github/last-commit/your_real_username/cse103-lab-LAB3)
+![Last Commit](https://img.shields.io/github/last-commit/mansikanwar121207-svg/cse103-lab-LAB3)
 
 
 
@@ -45,7 +45,7 @@ cse103-lab-LAB3/
 ## How to Run
 
 ```bash
-git clone https://github.com/your_real_username/cse103-lab-LAB3.git
+git clone https://github.com/mansikanwar121207-svg/cse103-lab-LAB3.git
 cd cse103-lab-LAB3
 python3 main.py
 ```
